@@ -34,3 +34,16 @@ body {
   top: 15%;
   left: 15%;
 }
+
+#planet2 {
+  /* background-image: url("https://static.vecteezy.com/system/resources/previews/047/828/524/large_2x/colorful-planet-on-transparent-background-free-png.png"); */
+  background-image: url("Images/planet2.svg");
+  width: 25%;
+  aspect-ratio: 1/1;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  bottom: 10%;
+  right: 5%;
+}
