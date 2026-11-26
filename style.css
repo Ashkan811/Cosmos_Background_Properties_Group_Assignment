@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #030035;
+}
+
+.cosmos {
+  width: 100vw;
+  max-width: 1200px;
+  height: 100vh;
+  margin: auto;
+  background-image: radial-gradient(
+    circle at center,
+    yellow 5%,
+    rgb(151, 151, 13),
+    #030035 20%
+  );
+  position: relative;
+}
+
